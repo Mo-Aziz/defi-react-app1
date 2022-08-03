@@ -52,4 +52,9 @@
     .subscribe .display-col{
         flex-direction: column;
     }
+
+    .subscribe .display-col button{
+
+        margin-top: 1rem;
+    }
 }
