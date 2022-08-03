@@ -11,7 +11,7 @@ const Subscribe = () => {
             <input type="email" name="email" placeholder="Enter your email" />
             <button className="btn">Sign Up</button>
           </div>
-          <div className="form-container">
+          <div className="form-container ">
             <input type="checkbox" />
             <p>Yes, I agree to receive email communications from DeFi</p>
           </div>

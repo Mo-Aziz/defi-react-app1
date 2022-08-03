@@ -42,8 +42,10 @@
     border-radius: 50px;
 }
 
+
 .subscribe input[type='checkbox']{
-    margin-right: .5rem;
+    margin-right: 0.3rem;
+    
 }
 
 @media screen and (max-width:495px){
